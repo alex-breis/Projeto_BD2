@@ -1,8 +1,6 @@
 from cmath import e
 from pprintpp import pprint as pp
 from db.database import Graph
-from helper.write_a_json import write_a_json
-
 
 class Pessoa(object):
     def __init__(self):
@@ -82,7 +80,6 @@ if option1 == '1':
                 'nome': nome
             }
             aux = dao.read_by_name(pessoa)
-            write_a_json(aux,"out")
             pp(aux)
             divider()
 
