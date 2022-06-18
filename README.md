@@ -1,8 +1,7 @@
 # S202
 
-## Material:
-https://determined-zebra-b82.notion.site/Bancos-de-dados-II-580c835e83554a9b9300558b4b4b87b3
-
+Projeto para a disciplina de Banco de Dados 2.
+Feito por: Alex Borges e Willy Paim.
 
 ## Como executar?
 1. Instale as dependências:
